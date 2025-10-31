@@ -18,7 +18,7 @@ All repositories are hosted at:
 The judges can access the full source code using the credentials below:
 
 Email: hackathon@colosseum.org
-Password: wJELXD4^qRY#JpL4
+Password: wJELXD4^qRY#JpL42
 
 ---
 
