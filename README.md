@@ -17,6 +17,7 @@ All repositories are hosted at:
 The judges can access the full source code using the credentials below:
 
 Email: hackathon
+
 Password: wJELXD4^qRY#JpL42
 
 ---
